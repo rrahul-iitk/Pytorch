@@ -1,3 +1,2 @@
 This is the file created after commit in the rebase branch.
 
-Added this new line to compare the remote file and some comments added. Check it. 
